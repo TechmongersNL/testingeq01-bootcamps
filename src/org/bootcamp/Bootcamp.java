@@ -3,9 +3,9 @@ package org.bootcamp;
 import org.bootcamp.exercises.*;
 
 public class Bootcamp {
-    WarmingUp warmingUp;
+    public WarmingUp warmingUp;
 
-    ExerciseSet[] sets;
+    public ExerciseSet[] sets;
 
-    CoolDown coolDown;
+    public CoolDown coolDown;
 }

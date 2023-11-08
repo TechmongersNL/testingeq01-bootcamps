@@ -1,6 +1,6 @@
 package org.bootcamp.exercises;
 
 public class Bout {
-    int iterations;
-    Exercise exercise;
+    public int iterations;
+    public Exercise exercise;
 }
